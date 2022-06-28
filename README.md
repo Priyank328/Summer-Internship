@@ -5,5 +5,6 @@
 - Understood **ESS(Emoloyee Self-Service Module)**.
 
 ### Day-2
-- Started Learning **ASP.NET** Core and **Angular**.
--  
+- Started Learning **ASP.NET** Core (Version 5) and **Angular** (Version 13).
+- Learnt about some basic task in .NET using **Visual Studio 2022**.
+- Got to know my Project and my role in it. 
