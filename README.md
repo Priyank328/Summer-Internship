@@ -16,3 +16,7 @@
 - Created basic website after Learning from it.
 - Got many mistakes and learned from that and also learnt under my Internship Faculty guide.
 
+### Day-4
+- Completed Task 1 of finding some templates regarding the Project I am included.
+- Made some changes in the website I made yesterday.
+- Got stuck in error and can't find relevant solution related.
