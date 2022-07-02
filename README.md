@@ -29,3 +29,5 @@
 ### Day-6
 - Explored about Postman on TutorialsPoint.
 - Got Task to start working on Learning ASP.NET Core.
+- Learned Error Handling, Using Static Files, Routing and many more tasks in ASP .NET Core.
+- Understood MVC and its role in an Website.
