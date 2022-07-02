@@ -1,7 +1,7 @@
 # Summer-Internship
 ### Day-1
 - Introduction to the Company and their Service they Offer including its Importance.
-- Got and Understood my Role in the project.
+- Understood PayWell's Admin & Employee-Self Service Module.
 - Understood **ESS(Emoloyee Self-Service Module)**.
 
 ### Day-2
