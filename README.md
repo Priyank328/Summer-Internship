@@ -43,8 +43,10 @@
 - Took overview of what I have to do today.
 - Started working in WEB API which I resumed yesterday.
 - Understood Constraints of REST API and Concept of making WEB API.
+- Made a Login API for showing all details entered by user.
 
 ### Day-10 (Wednesday)
 - Started real implementation on WEB API for the web module of ESS.
 - Learned SSMS (SQL Server Management Studio)
-- 
+- Learned OOPS Concepts of C#.
+- Installed GitHub-Desktop and Imported the WEB API of PayWell.
