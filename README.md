@@ -38,3 +38,13 @@
 - Learned Views, Action Results and Entity Framework in order for making changes to Database as DBContext<>.
 - Understood WEB API creation and started Practicing on it.
 - Need more practise and concentration on this.
+
+### Day-9 (Tuesday)
+- Took overview of what I have to do today.
+- Started working in WEB API which I resumed yesterday.
+- Understood Constraints of REST API and Concept of making WEB API.
+
+### Day-10 (Wednesday)
+- Started real implementation on WEB API for the web module of ESS.
+- Learned SSMS (SQL Server Management Studio)
+- 
