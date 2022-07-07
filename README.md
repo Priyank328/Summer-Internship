@@ -50,3 +50,9 @@
 - Learned SSMS (SQL Server Management Studio)
 - Learned OOPS Concepts of C#.
 - Installed GitHub-Desktop and Imported the WEB API of PayWell.
+
+### Day-11 (Thursday)
+- Started working on OSD(Out Station Duty) Application.
+- Finalized the design template and started working on it.
+- Finally made an API for OSD Application.
+- Solved error in Validating Client Login using POSTMAN.
