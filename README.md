@@ -56,3 +56,8 @@
 - Finalized the design template and started working on it.
 - Finally made an API for OSD Application.
 - Solved error in Validating Client Login using POSTMAN.
+
+### Day-12 (Friday)
+- Got task to create an API for Missed Punch Application.
+- Understood the procedure including Sql Server, Project Reference for example and Controller settings and started working on it. 
+- 
