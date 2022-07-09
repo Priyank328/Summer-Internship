@@ -65,3 +65,12 @@
 ### Day-13 (Saturday)
 - Discussed Few methods for API to create for Missed Punch application.
 - Got task create 4 methods differently for required API.
+
+### Day-14 (Sunday)
+
+### Day-15 (Monday)
+### Day-16 (Tuesday)
+### Day-17 (Wednesday)
+### Day-18 (Thursday)
+### Day-19 (Friday)
+### Day-20 (Saturday)
