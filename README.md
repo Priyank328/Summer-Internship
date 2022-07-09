@@ -60,4 +60,8 @@
 ### Day-12 (Friday)
 - Got task to create an API for Missed Punch Application.
 - Understood the procedure including Sql Server, Project Reference for example and Controller settings and started working on it. 
-- 
+- Successfully created 2 methods in it and tested it in POSTMAN.
+
+### Day-13 (Saturday)
+- Discussed Few methods for API to create for Missed Punch application.
+- Got task create 4 methods differently for required API.
