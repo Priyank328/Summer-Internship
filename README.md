@@ -63,8 +63,10 @@
 - Successfully created 2 methods in it and tested it in POSTMAN.
 
 ### Day-13 (Saturday)
+- I am working today from home due to Heavy Rains.
 - Discussed Few methods for API to create for Missed Punch application.
 - Got task create 4 methods differently for required API.
+- 2 of them were created yesterday and remaining I created today and tested 1 successfully and 2nd with the internal error.
 
 ### Day-14 (Sunday)
 
