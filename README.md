@@ -71,6 +71,8 @@
 ### Day-14 (Sunday)
 
 ### Day-15 (Monday)
+- Successfully completed Error and started New method SetPunchTime.
+- Uploaded and pushed all edited context from friday so far and committed all the changes to the Git Repository.
 ### Day-16 (Tuesday)
 ### Day-17 (Wednesday)
 ### Day-18 (Thursday)
