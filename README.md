@@ -69,12 +69,18 @@
 - 2 of them were created yesterday and remaining I created today and tested 1 successfully and 2nd with the internal error.
 
 ### Day-14 (Sunday)
-
 ### Day-15 (Monday)
 - Successfully completed Error and started New method SetPunchTime.
 - Uploaded and pushed all edited context from friday so far and committed all the changes to the Git Repository.
+- Successfully completed SetPunchTime method and committed to the repository.
+- Started SaveMissedPunchTime Method and it is in progress of testing and implementation.
 ### Day-16 (Tuesday)
+- 
 ### Day-17 (Wednesday)
+- 
 ### Day-18 (Thursday)
+- 
 ### Day-19 (Friday)
+- 
 ### Day-20 (Saturday)
+- 
