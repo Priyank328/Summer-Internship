@@ -77,6 +77,8 @@
 ### Day-16 (Tuesday)
 - Started working on in progress method left Yesterday.
 - Validation Logic coded and gaining and writing Data Access Layer Logic of Database Side from where data is accessed.
+- Almost completed Insert method and Got some compilation error.
+
 ### Day-17 (Wednesday)
 - 
 ### Day-18 (Thursday)
